@@ -37,7 +37,7 @@ feature:
     icon_pack: custom
     name: Frameworks
   - description: MySQL, SQL
-    icon: ":gear:"
+    icon: ":bar-chart-line:"
     icon_pack: "emoji"
     name: Data Management
 # Uncomment to use emoji icons.
