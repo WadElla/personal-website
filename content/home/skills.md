@@ -21,7 +21,7 @@ feature:
     icon_pack: custom
     name: Networking
   - description: Wireshark, eNSP
-    icon: knust
+    icon: tools
     icon_pack: custom
     name: Networking tools
   - description: Python, C, C++, Dart, Javascript, MATLAB
@@ -37,8 +37,8 @@ feature:
     icon_pack: custom
     name: Frameworks
   - description: MySQL, SQL
-    icon: databases
-    icon_pack: custom
+    icon: ":smile:"
+    icon_pack: "emoji"
     name: Data Management
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
