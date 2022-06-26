@@ -22,35 +22,36 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true 
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: danielworaeadu691@gmail.com
+  phone: +233 59 550 7079
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Kenten
+    city: Techiman
+    region: Bono East
+    postcode: '00233'
+    country: Ghana
+    country_code: GH
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: ''
+    longitude: ''
+  directions: 
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday 10:00 to 18:00'
+    - 'Wednesday 09:00 to 18:00'
+    - 'Friday 10:00 to 18:00'
+  appointment_url: ''
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/Wadman691'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://us04web.zoom.us/profile'
 
 design:
   columns: '2'
