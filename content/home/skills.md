@@ -25,8 +25,8 @@ feature:
     icon_pack: custom
     name: Networking tools
   - description: Python, C, C++, Dart, Javascript, MATLAB
-    icon: languages
-    icon_pack: custom
+    icon: ":laptop:"
+    icon_pack: "emoji"
     name: Programming Languages
   - description: CSS, HTML
     icon: webtech
