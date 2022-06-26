@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
-    icon: network
-    icon_pack: custom
+    icon: ":router:"
+    icon_pack: "emoji"
     name: Networking
   - description: Wireshark, eNSP
     icon: ":tools:"
@@ -29,12 +29,12 @@ feature:
     icon_pack: "emoji"
     name: Programming Languages
   - description: CSS, HTML
-    icon: webtech
-    icon_pack: custom
+    icon: ":pc-display-horizontal:"
+    icon_pack: "emoji"
     name: Web Technologies
   - description: React, FLutter, React Native
-    icon: frameworks
-    icon_pack: custom
+    icon: ":flower1:"
+    icon_pack: "emoji"
     name: Frameworks
   - description: MySQL, SQL
     icon: ":bar-chart-line:"
