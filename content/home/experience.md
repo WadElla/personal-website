@@ -34,7 +34,10 @@ experience:
         
         * Worked closely with senior developers and  learned advanced project management
         * Assembled components and built electrical hardware projects
-        * Deploying
+        * Met with the software development team to gather requirements, design sites and outline schedule.
+        * Identified, diagnosed, and resolved network problems.
+        * Comprehensive knowledge of networking concepts.
+        * Monitoring network performance
 
   - title: Professor of Semiconductor Physics
     company: University X
