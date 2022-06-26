@@ -53,21 +53,21 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: 
-    url: 'Cybersecurity tools and cyber attacks'
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    title: 'Cybersecurity tools and cyber attacks' 
+    url: ''
+  - certificate_url: https://www.huawei.com/en/
+    date_end: '2024-05-01'
+    date_start: '2020-12-01'
+    description: ''
+    organization: huawei
+    organization_url: https://www.huawei.com/en/
+    title: HCIA-5G
+    url: https://www.huawei.com/en/
   - certificate_url: https://www.huawei.com/en/
     date_end: '2024-05-01'
     date_start: '2020-09-01'
     description: ''
-    organization: knust
+    organization: huawei
     organization_url: https://www.huawei.com/en/
     title: 'HCIA-Routing and Switching'
     url: ''
