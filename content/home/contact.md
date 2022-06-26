@@ -19,7 +19,7 @@ content:
   form:
     provider: netlify
     formspree:
-      id:
+      id: danielworaeadu691@gmail.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true 
