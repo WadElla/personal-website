@@ -52,7 +52,8 @@ experience:
         * Hold tutorial and practical sections to help students understand concepts they are taught in class.
         * Researched on distributed denial of service attacks on networks
 
-        Courses I taught include:
+
+        Courses I assisted include:
 
         * C programming
         * Database and information retrieval
