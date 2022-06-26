@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
     icon: network
-    icon_pack: fas
+    icon_pack: custom
     name: Networking
   - description: Wireshark, eNSP
     icon: tools
