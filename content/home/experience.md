@@ -50,7 +50,7 @@ experience:
   - title: Graduate Teaching Assistant
     company: School of Computer Science and Engineering, University of Electronic Science and Technology of China
     company_url: 'https://en.uestc.edu.cn/info/1015/1407.htm'
-    company_logo: try
+    company_logo: uestc
     location: Chengdu,Sichuan, China
     date_start: '2022-02-01'
     date_end: ''
