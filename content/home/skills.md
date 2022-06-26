@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: SKILLS
 subtitle:
 
 # Showcase personal skills or business features.
@@ -18,27 +18,27 @@ subtitle:
 feature:
   - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
     icon: network
-    icon_pack: "custom"
+    icon_pack: custom
     name: Networking
   - description: Wireshark, eNSP
     icon: tools
-    icon_pack: "custom"
+    icon_pack: custom
     name: Networking tools
   - description: Python, C, C++, Dart, Javascript, MATLAB
     icon: languages
-    icon_pack: "custom"
+    icon_pack: custom
     name: Programming Languages
   - description: CSS, HTML
     icon: webtech
-    icon_pack: "custom"
+    icon_pack: custom
     name: Web Technologies
   - description: React, FLutter, React Native
-    icon: frameworks
-    icon_pack: "custom"
+  -  icon: frameworks
+    icon_pack: custom
     name: Frameworks
   - description: MySQL, SQL
     icon: databases
-    icon_pack: "custom"
+    icon_pack: custom
     name: Data Management
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -50,8 +50,8 @@ feature:
 # Place your custom SVG icon in `assets/media/icons/`.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
 # For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+- icon: languages
+  icon_pack: custom
+  name: "Surfing"
+  description: "90%"
 ---
