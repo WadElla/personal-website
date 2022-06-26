@@ -67,7 +67,7 @@ item:
     date_end: '2024-05-01'
     date_start: '2020-09-01'
     description: ''
-    organization: Huawei
+    organization: knust
     organization_url: https://www.huawei.com/en/
     title: 'HCIA-Routing and Switching'
     url: ''
