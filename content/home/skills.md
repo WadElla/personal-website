@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
-    icon: ":wifi:"
+    icon: ":cloud:"
     icon_pack: "emoji"
     name: Networking
   - description: Wireshark, eNSP
@@ -37,7 +37,7 @@ feature:
     icon_pack: "emoji"
     name: Frameworks
   - description: MySQL, SQL
-    icon: ":bar-chart-line:"
+    icon: ":gear:"
     icon_pack: "emoji"
     name: Data Management
 # Uncomment to use emoji icons.
