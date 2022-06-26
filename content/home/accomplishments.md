@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Google IT support Specialization
+    title: Managing Cybersecurity
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
