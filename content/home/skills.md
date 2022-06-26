@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
     icon: network
-    icon_pack: custom
+    icon_pack: fas
     name: Networking
   - description: Wireshark, eNSP
     icon: tools
@@ -40,10 +40,6 @@ feature:
     icon: databases
     icon_pack: custom
     name: Data Management
-  - icon: languages
-    icon_pack: "custom"
-    name: "Testing"
-    description: "90%"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
