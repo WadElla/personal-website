@@ -22,28 +22,40 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Intern, Ghana Police Headquarters
+    company: Ghana Police
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: police
+    location: Ghana
+    date_start: '2019-06-01'
+    date_end: '2019-08-01'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Worked closely with senior developers and learned advanced project management
+        * Assembled components and built electrical hardware projects
+        * Met with the software development team to gather requirements, design sites and outline schedule.
+        * Identified, diagnosed, and resolved network problems.
+        * Comprehensive knowledge of networking concepts.
+        * Monitoring network performance
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Teaching and Research Assistant
+    company: Department of Computer Engineering, Kwame Nkrumah University of Science and Technology
+    company_url: 'https://compeng.knust.edu.gh/'
+    company_logo: knust
+    location: Kumasi,Ghana
+    date_start: '2020-09-01'
+    date_end: '2021-08-31'
+  
+  - title: Graduate Teaching Assistant
+    company: School of Computer Science and Engineering, University of Electronic Science and Technology of China
+    company_url: 'https://en.uestc.edu.cn/info/1015/1407.htm'
+    company_logo: uestc
+    location: Chengdu,Sichuan, China
+    date_start: '2022-02-01'
+    date_end: '2022-06-31'
+    
 
 design:
   columns: '2'
