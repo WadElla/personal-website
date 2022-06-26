@@ -61,6 +61,10 @@ experience:
         * Secured Network Systems
         * Distributed Computing
 
+        Other Role:
+        
+        * Course instructor, Huawei Certified ICT Associate (HCIA)
+
   - title: Graduate Teaching Assistant
     company: School of Computer Science and Engineering, University of Electronic Science and Technology of China
     company_url: 'https://en.uestc.edu.cn/info/1015/1407.htm'

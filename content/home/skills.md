@@ -17,28 +17,28 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
-    icon: networking
-    icon_pack: fab
+    icon: network
+    icon_pack: "custom"
     name: Networking
   - description: Wireshark, eNSP
-    icon: networking-tools
-    icon_pack: fas
+    icon: tools
+    icon_pack: "custom"
     name: Networking tools
   - description: Python, C, C++, Dart, Javascript, MATLAB
-    icon: programming-language
-    icon_pack: fas
+    icon: languages
+    icon_pack: "custom"
     name: Programming Languages
   - description: CSS, HTML
-    icon: web-technologies
-    icon_pack: fas
+    icon: webtech
+    icon_pack: "custom"
     name: Web Technologies
   - description: React, FLutter, React Native
     icon: frameworks
-    icon_pack: fas
+    icon_pack: "custom"
     name: Frameworks
   - description: MySQL, SQL
-    icon: data-management
-    icon_pack: fas
+    icon: databases
+    icon_pack: "custom"
     name: Data Management
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
