@@ -21,7 +21,7 @@ feature:
     icon_pack: custom
     name: Networking
   - description: Wireshark, eNSP
-    icon: tools
+    icon: knust
     icon_pack: custom
     name: Networking tools
   - description: Python, C, C++, Dart, Javascript, MATLAB
