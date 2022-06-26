@@ -48,7 +48,7 @@ feature:
 #  description: "100%"
 #  name: Data Management
 #  description: MySQL, SQL
-icon: ":gear:"
+
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
