@@ -29,7 +29,7 @@ feature:
     icon_pack: "emoji"
     name: Programming Languages
   - description: CSS, HTML
-    icon: ":laptop-code:"
+    icon: ":tv:"
     icon_pack: "emoji"
     name: Web Technologies
   - description: React, FLutter, React Native
