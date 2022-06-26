@@ -36,7 +36,8 @@ feature:
     icon: ":atom:"
     icon_pack: "emoji"
     name: Frameworks
-  - icon: ":gear:"
+  - description: MySQL, SQL
+    icon: ":gear:"
     icon_pack: "emoji"
     name: Data Management
     description: MySQL, SQL
@@ -47,6 +48,7 @@ feature:
 #  description: "100%"
 #  name: Data Management
 #  description: MySQL, SQL
+icon: ":gear:"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
