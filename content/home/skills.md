@@ -33,7 +33,7 @@ feature:
     icon_pack: "emoji"
     name: Web Technologies
   - description: React, FLutter, React Native
-    icon: ":motherboard:"
+    icon: ":microsoft:"
     icon_pack: "emoji"
     name: Frameworks
   - description: MySQL, SQL
