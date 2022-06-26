@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
-    icon: ":router:"
+    icon: ":wifi:"
     icon_pack: "emoji"
     name: Networking
   - description: Wireshark, eNSP
