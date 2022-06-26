@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: SKILLS
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
@@ -40,6 +40,10 @@ feature:
     icon: databases
     icon_pack: custom
     name: Data Management
+  - icon: languages
+    icon_pack: "custom"
+    name: "Testing"
+    description: "90%"
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
