@@ -25,7 +25,7 @@ experience:
   - title: Intern
     company: Ghana Police
     company_url: 'https://police.gov.gh/en/'
-    company_logo: 
+    company_logo: ghanapolice
     location: Ghana
     date_start: '2019-06-01'
     date_end: '2019-08-01'
