@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Intern
-    company: GhanaPolice
-    company_url: ''
-    company_logo: org-gc
+    company: Ghana Police
+    company_url: 'https://police.gov.gh/en/'
+    company_logo: GhanaPolice
     location: Ghana
     date_start: '2019-06-01'
     date_end: '2019-08-01'
