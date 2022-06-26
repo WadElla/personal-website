@@ -25,7 +25,7 @@ experience:
   - title: Intern
     company: Ghana Police
     company_url: 'https://police.gov.gh/en/'
-    company_logo: GhanaPolice
+    company_logo: 
     location: Ghana
     date_start: '2019-06-01'
     date_end: '2019-08-01'
@@ -39,14 +39,13 @@ experience:
         * Comprehensive knowledge of networking concepts.
         * Monitoring network performance
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Teaching and Research Assistant
+    company: Department of Computer Engineering, Kwame Nkrumah University of Science and Technology
+    company_url: 'https://compeng.knust.edu.gh/'
+    company_logo: knust
+    location: Kumasi,Ghana
+    date_start: '2020-09-01'
+    date_end: '2021-08-31'
 
 design:
   columns: '2'
