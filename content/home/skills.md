@@ -21,8 +21,8 @@ feature:
     icon_pack: custom
     name: Networking
   - description: Wireshark, eNSP
-    icon: tools
-    icon_pack: custom
+    icon: ":tools:"
+    icon_pack: "emoji"
     name: Networking tools
   - description: Python, C, C++, Dart, Javascript, MATLAB
     icon: ":laptop:"
