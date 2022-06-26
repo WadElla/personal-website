@@ -31,30 +31,14 @@ item:
     organization_url: https://www.coursera.org
     title: Google IT support Specialization
     url: ''
-  - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/KY45QP5Q7RH2
-    date_end: ""
-    date_start: "2021-03-01"
-    description: ""
-    organization: coursera
-    organization_url: https://www.coursera.org
-    title: Managing Cybersecurity
-    url: ""
-  - certificate_url: https://coursera.org/verify/5QGD9VQC64U7
+  - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
     date_end: ''
-    date_start: "2021-03-01"
-    description: ""
-    organization: coursera
-    organization_url:https://www.coursera.org
-    title: Machine Learning
-    url: ""
-  - certificate_url: https://coursera.org/verify/AWXE4GH2BH7D
-    date_end: ""
-    date_start: "2021-03-01"
-    description: ""
-    organization: coursera
-    organization_url:https://www.coursera.org
-    title: IT Security Defense against the digital darks arts
-    url: ""
+    date_start: '2021-03-01'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Google IT support Specialization
+    url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
