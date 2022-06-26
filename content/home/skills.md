@@ -33,7 +33,7 @@ feature:
     icon_pack: custom
     name: Web Technologies
   - description: React, FLutter, React Native
-  -  icon: frameworks
+    icon: frameworks
     icon_pack: custom
     name: Frameworks
   - description: MySQL, SQL
