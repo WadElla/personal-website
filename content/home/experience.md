@@ -46,6 +46,19 @@ experience:
     location: Kumasi,Ghana
     date_start: '2020-09-01'
     date_end: '2021-08-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Hold tutorial and practical sections to help students understand concepts they are taught in class.
+        * Researched on distributed denial of service attacks on networks
+
+        Courses I taught include:
+
+        * C programming
+        * Database and information retrieval
+        * Computer networking
+        * Secured Network Systems
+        * Distributed Computing
 
   - title: Graduate Teaching Assistant
     company: School of Computer Science and Engineering, University of Electronic Science and Technology of China
