@@ -39,6 +39,22 @@ item:
     organization_url: https://www.coursera.org
     title: Managing Cybersecurity
     url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/5QGD9VQC64U7
+    date_end: ''
+    date_start: '2021-03-01'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Machine Learning
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/SGW2PY3WQP7R
+    date_end: ''
+    date_start: '2021-03-01'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: 
+    url: 'Introduction to Cybersecurity Tools & Cyber Attacks'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
