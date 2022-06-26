@@ -16,18 +16,30 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
+  - description: Routing, Switching, VLANS, Network Security, Network Design, ACL Management, Network Access Control
+    icon: networking
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Networking
+  - description: Wireshark, eNSP
+    icon: networking-tools
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Networking tools
+  - description: Python, C, C++, Dart, Javascript, MATLAB
+    icon: programming-language
     icon_pack: fas
-    name: Photography
+    name: Programming Languages
+  - description: CSS, HTML
+    icon: web-technologies
+    icon_pack: fas
+    name: Web Technologies
+  - description: React, FLutter, React Native
+    icon: frameworks
+    icon_pack: fas
+    name: Frameworks
+  - description: MySQL, SQL
+    icon: data-management
+    icon_pack: fas
+    name: Data Management
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
