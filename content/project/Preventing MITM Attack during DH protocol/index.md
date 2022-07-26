@@ -1,6 +1,8 @@
 ---
 title: Enhancing Defense Against Man-in-the-middle Attack During the Diffie-Hellman Key Exchange Protocol
 summary: A general review of Man-In-The-Middle (MITM) attacks directed at the Diffie-Hellman protocol was presented and a suggested approach to secure Diffie-Hellman Key Exchange protocol against Man-In-The-Middle attacks was then presented which made use of the Geffe generator (A pseudo random sequence generator). 
+tags:
+  - Security
 date: "2021-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -1,9 +1,9 @@
 ---
 title: Blockchain Technology and ITS Applications
 summary: This project seeks to lay out an overview of Blockchain, its architecture, applications, challenges, and future trends. 
+tags:
+  - Security
 date: '2021-12-27T00:00:00Z'
-tag:
- - Security
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
