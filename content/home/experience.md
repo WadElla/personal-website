@@ -22,22 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Intern
-    company: National Police Headquarters, Ghana
-    company_url: 'https://police.gov.gh/en/'
-    company_logo: ghanapolice
-    location: Ghana
-    date_start: '2019-06-01'
-    date_end: '2019-08-01'
-    description: |2-
-        Responsibilities include:
-        
-        * Worked closely with senior developers and  learned advanced project management
-        * Assembled components and built electrical hardware projects
-        * Met with the software development team to gather requirements, design sites and outline schedule.
-        * Identified, diagnosed, and resolved network problems.
-        * Comprehensive knowledge of networking concepts.
-        * Monitoring network performance
+  - title: Graduate Teaching Assistant
+    company: School of Computer Science and Engineering, University of Electronic Science and Technology of China
+    company_url: 'https://en.uestc.edu.cn/info/1015/1407.htm'
+    company_logo: uestc
+    location: Chengdu,Sichuan, China
+    date_start: '2022-02-01'
+    date_end: ''
 
   - title: Teaching and Research Assistant
     company: Department of Computer Engineering, Kwame Nkrumah University of Science and Technology
@@ -64,14 +55,24 @@ experience:
         Other Role:
         
         * Course instructor, Huawei Certified ICT Associate (HCIA)
+        
+  - title: Intern
+    company: National Police Headquarters, Ghana
+    company_url: 'https://police.gov.gh/en/'
+    company_logo: ghanapolice
+    location: Ghana
+    date_start: '2019-06-01'
+    date_end: '2019-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Worked closely with senior developers and  learned advanced project management
+        * Assembled components and built electrical hardware projects
+        * Met with the software development team to gather requirements, design sites and outline schedule.
+        * Identified, diagnosed, and resolved network problems.
+        * Comprehensive knowledge of networking concepts.
+        * Monitoring network performance
 
-  - title: Graduate Teaching Assistant
-    company: School of Computer Science and Engineering, University of Electronic Science and Technology of China
-    company_url: 'https://en.uestc.edu.cn/info/1015/1407.htm'
-    company_logo: uestc
-    location: Chengdu,Sichuan, China
-    date_start: '2022-02-01'
-    date_end: ''
 
 design:
   columns: '2'
