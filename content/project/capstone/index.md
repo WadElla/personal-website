@@ -2,8 +2,6 @@
 title: Smart Irrigation System powered by Deep Learning algorithms
 summary: Trained an LSTM deep learning model to predict rainfall patterns for Kumasi. Built an efficient and smart irrigation to converse water using predictions from the deep learning model. Created a mobile app to provide real-time farm data to the farmer.The system was very efficient in conversing water. 
  An example of using the in-built project page.
-tags:
-  - Other
 date: "2020-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
