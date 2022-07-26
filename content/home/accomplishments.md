@@ -23,21 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
+  - certificate_url: 
+https://www.coursera.org/account/accomplishments/certificate/MZGERTWCJ7KU
     date_end: ''
-    date_start: '2021-03-01'
+    date_start: '2022-07-25'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Google IT support Specialization
+    title: Smart Contracts
     url: ''
-  - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
+  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/4Z48363WHYRV
     date_end: ''
-    date_start: '2021-03-01'
+    date_start: '2022-07-21'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Google IT support Specialization
+    title: Blockchain Basics
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
     date_end: ''
