@@ -84,7 +84,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: wadman
     algolia:
       app_id: ''
       api_key: ''
