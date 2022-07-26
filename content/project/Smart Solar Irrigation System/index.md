@@ -1,24 +1,25 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-date: '2016-04-27T00:00:00Z'
+title: Smart Solar Irrigation System
+summary: This project helps promote all year farming and minimizes food crisis experienced in rural areas by designing and implementing a smart solar irrigation system. We coupled android interface with irrigation process which resulted in efficient and optimal usage of water with the help of solar energy. We built an android application to monitor and remotely control irrigation system.
+
+date: '2020-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://drive.google.com/file/d/1W5cGYDvMCLbVgMUem4gys5CfM2JVQ3HP/view?usp=sharing
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
+  - icon: file-pdf
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1W5cGYDvMCLbVgMUem4gys5CfM2JVQ3HP/view?usp=sharing
+url_code: https://github.com/WadElla/smart-app
 url_pdf: ''
-url_slides: ''
-url_video: ''
+url_slides: https://docs.google.com/presentation/d/1-pshpTSXXv4XCNDo_vqmrkO324Rauhfj/edit?usp=sharing&ouid=110645619716940866143&rtpof=true&sd=true
+url_video: https://drive.google.com/file/d/1igmYTnWflLf_SSkTdqbJH09od-Gz53f_/view?usp=sharing
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

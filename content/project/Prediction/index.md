@@ -14,7 +14,7 @@ links:
 - icon:  file-pdf
   icon_pack: fas
   name: Report
-  url: https://drive.google.com/file/d/1woEXmMKS7_dpQ5y83c_0S9_vLdWjJJ6O/view?usp=sharing
+  url: https://drive.google.com/file/d/1s72F4k7kHsiohrFmbQkNijOhUbGoyKap/view?usp=sharing
 url_code: https://github.com/WadElla/Heart-Disease-Prediction-using-Logistic-Regression
 url_pdf: ""
 url_slides: https://docs.google.com/presentation/d/1-SkV_kHpM8uEEkscQf9GQoT6NE5QmxvO/edit?usp=sharing&ouid=110645619716940866143&rtpof=true&sd=true

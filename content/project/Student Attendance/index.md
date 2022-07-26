@@ -1,20 +1,20 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-date: '2016-04-27T00:00:00Z'
+title: Students Attendance System
+summary: This project was designed to help schools to track student time and attendance information.
+date: '2019-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: https://drive.google.com/file/d/1ASRkFtmOT9k3kMdLBiJpLs7M6I7oe0jX/view?usp=sharing
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: file-pdf
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1ASRkFtmOT9k3kMdLBiJpLs7M6I7oe0jX/view?usp=sharing
 url_code: ''
 url_pdf: ''
 url_slides: ''

@@ -1,7 +1,7 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-date: '2016-04-27T00:00:00Z'
+title: Deployment of IOT Applications on 5G Edge
+summary: The primary objective of this project was to provide a synopsis of the steps involved in the construction of an offloading framework for arbitrary IoT device tasks.
+date: '2022-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -11,13 +11,13 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: file-pdf
+    icon_pack: fas
+    name: Report
+    url: https://drive.google.com/file/d/1YOI4e0PTjeZHGH6TSJgpmcfsj5rQCYTD/view?usp=sharing
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: https://docs.google.com/presentation/d/1jhWnNy1UvCy44g_5sEI6ZGLN0RjFCZC5/edit?usp=sharing&ouid=110645619716940866143&rtpof=true&sd=true
 url_video: ''
 
 # Slides (optional).
