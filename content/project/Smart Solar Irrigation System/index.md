@@ -8,7 +8,7 @@ date: '2020-04-27T00:00:00Z'
 external_link: https://drive.google.com/file/d/1W5cGYDvMCLbVgMUem4gys5CfM2JVQ3HP/view?usp=sharing
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Smart Solar Irrigation System
   focal_point: Smart
 
 links:

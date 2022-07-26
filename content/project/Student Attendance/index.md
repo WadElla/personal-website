@@ -7,7 +7,7 @@ date: '2019-05-27T00:00:00Z'
 external_link: https://drive.google.com/file/d/1ASRkFtmOT9k3kMdLBiJpLs7M6I7oe0jX/view?usp=sharing
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Attendance Management System
   focal_point: Smart
 
 links:

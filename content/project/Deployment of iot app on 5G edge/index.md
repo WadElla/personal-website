@@ -7,7 +7,7 @@ date: '2022-05-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Deployment of IOT on 5G Edge
   focal_point: Smart
 
 links:

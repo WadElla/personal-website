@@ -7,7 +7,7 @@ date: "2022-03-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: https://drive.google.com/file/d/1s72F4k7kHsiohrFmbQkNijOhUbGoyKap/view?usp=sharing
 image:
-  caption: Image Filtering
+  caption: Methodology
   focal_point: Smart
 
 links:

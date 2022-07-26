@@ -7,7 +7,7 @@ date: '2022-05-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Network Function Virtualization
   focal_point: Smart
 
 links:
