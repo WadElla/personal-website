@@ -1,6 +1,8 @@
 ---
 title: Students Attendance System
 summary: This project was designed to help schools to track student time and attendance information.
+tags:
+  - Demo
 date: '2019-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

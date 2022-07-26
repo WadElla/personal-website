@@ -1,6 +1,8 @@
 ---
 title: Smart Solar Irrigation System
 summary: This project helps promote all year farming and minimizes food crisis experienced in rural areas by designing and implementing a smart solar irrigation system. We coupled android interface with irrigation process which resulted in efficient and optimal usage of water with the help of solar energy. We built an android application to monitor and remotely control irrigation system.
+tags:
+  - Demo
 
 date: '2020-04-27T00:00:00Z'
 

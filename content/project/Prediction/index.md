@@ -1,7 +1,9 @@
 ---
 title: Heart Disease Prediction using Logistic
 summary: Identified the most significant predictors of heart diseases and predicted whether a patient has 10-year risk of future heart disease using logistic regression. The data analysis was carried out in python using JupyterLab.
-
+tags:
+  - Demo
+  
 date: "2022-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

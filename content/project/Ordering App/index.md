@@ -1,6 +1,8 @@
 ---
 title: Ordering APP
 summary: To get rid of all the disadvantages of the conventional methods of ordering and delivery, a proposed solution to the existing system is the introduction of a mobile app for both the users and riders and a web application solely for riders. The purpose of the mobile application is to allow the users to monitor the riders and directly interact with them without calling the service provider from time to time to find out about the whereabouts of riders and their goods. The mobile app also allows users on the app to track riders and they are provided with a proposed/ estimated time of arrival of their items. A web application was implemented in the proposed solution. This served as a platform for registration of riders. This allows the service provider to keep track of riders. 
+tags:
+  - Demo
 date: '2021-12-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

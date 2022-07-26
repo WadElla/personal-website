@@ -1,6 +1,8 @@
 ---
 title: A Survey of Network Function Virtualization
 summary: This report provides an overview of current state of the art in network functions virtualization, as well as an explanation and classification of the major projects that are operating under the network functions virtualization framework. 
+tags:
+  - Demo
 date: '2022-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
