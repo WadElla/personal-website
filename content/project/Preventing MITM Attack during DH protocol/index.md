@@ -1,28 +1,23 @@
 ---
-title: Smart Irrigation System powered by Deep Learning algorithms
-summary: Trained an LSTM deep learning model to predict rainfall patterns for Kumasi. Built an efficient and smart irrigation to converse water using predictions from the deep learning model. Created a mobile app to provide real-time farm data to the farmer.The system was very efficient in conversing water. 
- An example of using the in-built project page.
-date: "2020-06-27T00:00:00Z"
+title: Enhancing Defense Against Man-in-the-middle Attack During the Diffie-Hellman Key Exchange Protocol
+summary: A general review of Man-In-The-Middle (MITM) attacks directed at the Diffie-Hellman protocol was presented and a suggested approach to secure Diffie-Hellman Key Exchange protocol against Man-In-The-Middle attacks was then presented which made use of the Geffe generator (A pseudo random sequence generator). 
+date: "2021-10-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link:  https://drive.google.com/drive/folders/1ZMg0Ceiu4DdhTYwslNqDNkeOav32u8OO?usp=sharing
+external_link:  https://drive.google.com/file/d/107sF4IWUHqZUQXqEbSzXoCwjsIB4Wctg/view?usp=sharing
 
 image:
-  caption: Smart Irrigation powered by Deep Learning algorithms
+  caption: preventing man-in-the-middle attacks during DH protocol
   focal_point: Smart
 
 links:
 - icon:  file-pdf
   icon_pack: fas
   name: Report
-  url: https://drive.google.com/file/d/1HRcWah4m03_H3xPVMbcPIknudHt0-UcK/view?usp=sharing
-- icon: file-powerpoint
-  icon_pack: fas
-  name: Slides
-  url: https://docs.google.com/presentation/d/1fFNDyroYG6XRR4YDHdfHCZzIVbPtekm7/edit?usp=sharing&ouid=106564825907729888075&rtpof=true&sd=true
+  url: https://drive.google.com/file/d/107sF4IWUHqZUQXqEbSzXoCwjsIB4Wctg/view?usp=sharing
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://docs.google.com/presentation/d/1PJDPs3JiE17RHYz3dE8tG30R3t-6T9Kh/edit?usp=sharing&ouid=110645619716940866143&rtpof=true&sd=true
 url_video: ""
 
 # Slides (optional).
