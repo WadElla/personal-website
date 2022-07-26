@@ -7,7 +7,7 @@ date: '2021-12-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Ordering APP
+  caption: Web APP
   focal_point: Smart
 
 links:
