@@ -17,7 +17,7 @@ links:
     url: https://drive.google.com/file/d/1ASRkFtmOT9k3kMdLBiJpLs7M6I7oe0jX/view?usp=sharing
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: https://docs.google.com/presentation/d/1vKmRsHOT2ErDQjpZ_VhYZeoWRrm2pCWy/edit?usp=sharing&ouid=110645619716940866143&rtpof=true&sd=true
 url_video: ''
 
 # Slides (optional).
