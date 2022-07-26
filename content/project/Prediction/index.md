@@ -5,7 +5,7 @@ summary: Identified the most significant predictors of heart diseases and predic
 date: "2022-03-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://drive.google.com/file/d/1woEXmMKS7_dpQ5y83c_0S9_vLdWjJJ6O/view?usp=sharing
+external_link: https://drive.google.com/file/d/1s72F4k7kHsiohrFmbQkNijOhUbGoyKap/view?usp=sharing
 image:
   caption: Image Filtering
   focal_point: Smart
@@ -15,9 +15,9 @@ links:
   icon_pack: fas
   name: Report
   url: https://drive.google.com/file/d/1woEXmMKS7_dpQ5y83c_0S9_vLdWjJJ6O/view?usp=sharing
-url_code: https://github.com/Akola-Mbey-Denis/H-index-Prediction.git
+url_code: https://github.com/WadElla/Heart-Disease-Prediction-using-Logistic-Regression
 url_pdf: ""
-url_slides: https://drive.google.com/file/d/1DVAPPBcn6flbYxuP3uhiA0vyRQnkfgI0/view?usp=sharing
+url_slides: https://docs.google.com/presentation/d/1-SkV_kHpM8uEEkscQf9GQoT6NE5QmxvO/edit?usp=sharing&ouid=110645619716940866143&rtpof=true&sd=true
 url_video: ""
 
 # Slides (optional).
