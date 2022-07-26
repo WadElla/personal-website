@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: Blockchain
 ---
 
 Technological developments have always made changes in all areas of our lives and crypto currency is one of these changes. Because of these changes, a lot of electronic currencies such as litecoin, ethereum, ripple, and bitcoin have evolved and found a use in business. Many people have favored bitcoin over the years among the rest. As the fundamental technology of Bitcoin, blockchain has captivated the awareness of many experts and scholars and hence become a very popular buzz word because of the tremendous 
