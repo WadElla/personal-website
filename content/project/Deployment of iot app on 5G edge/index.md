@@ -1,6 +1,8 @@
 ---
 title: Deployment of IOT Applications on 5G Edge
 summary: The primary objective of this project was to provide a synopsis of the steps involved in the construction of an offloading framework for arbitrary IoT device tasks.
+tags:
+  - Demo
 date: '2022-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
