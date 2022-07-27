@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Google IT support Specialization
+    title: Smart Contracts
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
     date_end: ''
@@ -37,7 +37,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Google IT support Specialization
+    title: Blockchain
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
     date_end: ''
