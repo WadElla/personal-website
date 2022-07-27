@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -23,22 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: 
-https://www.coursera.org/account/accomplishments/certificate/MZGERTWCJ7KU
+  - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
     date_end: ''
-    date_start: '2022-07-25'
+    date_start: '2021-03-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Smart Contracts
+    title: Google IT support Specialization
     url: ''
-  - certificate_url: https://www.coursera.org/account/accomplishments/certificate/4Z48363WHYRV
+  - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
     date_end: ''
-    date_start: '2022-07-21'
+    date_start: '2021-03-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Blockchain Basics
+    title: Google IT support Specialization
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/UPX9JFX3GXFL
     date_end: ''
