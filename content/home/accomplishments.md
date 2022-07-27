@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/MZGERTWCJ7KU
     date_end: ''
-    date_start: '2021-03-01'
+    date_start: '2022-07-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: https://www.coursera.org/account/accomplishments/certificate/4Z48363WHYRV
     date_end: ''
-    date_start: '2021-03-01'
+    date_start: '2022-07-01'
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
