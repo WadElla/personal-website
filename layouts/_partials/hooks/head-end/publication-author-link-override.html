@@ -1,0 +1,83 @@
+<style>
+/* Preserve HugoBlox publication layout, but render publication author names as plain text. */
+main a[href*="/authors/"],
+main a[href="/authors"],
+main a[href="/authors/"] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+</style>
+<script>
+(function () {
+  const authorNames = [
+    'Daniel Adu Worae',
+    'Spyridon Mastorakis',
+    'Athar Sheikh',
+    'Jun Zhong',
+    'Jianbin Gao',
+    'Hu Xia',
+    'Bonsu Adjei-Arthur',
+    'Hairong Lv',
+    'Qi Xia',
+    'Sophyani Banaamwini Yussif',
+    'Sandra Chukwudumebi Obiora',
+    'Olusola Bamisile',
+    'Isaac Amankona Obiri',
+    'Kwame Omono Asamoah'
+  ];
+
+  function cleanText(value) {
+    return (value || '').replace(/\s+/g, ' ').trim();
+  }
+
+  function isAuthorName(value) {
+    const label = cleanText(value);
+    return authorNames.some(name => label === name || label.includes(name));
+  }
+
+  function isLocalAuthorOrHomeLink(href) {
+    if (!href) return false;
+    let url;
+    try {
+      url = new URL(href, window.location.href);
+    } catch (e) {
+      return false;
+    }
+    if (url.origin !== window.location.origin) return false;
+    const path = url.pathname.replace(/\/+$/, '/');
+    return path.includes('/authors/') || path === '/';
+  }
+
+  function unwrapPublicationAuthorLinks(root) {
+    const scope = root || document;
+    scope.querySelectorAll('main a').forEach(link => {
+      if (link.closest('header, nav, footer')) return;
+      const label = cleanText(link.textContent);
+      const href = link.getAttribute('href') || '';
+      if (isAuthorName(label) && isLocalAuthorOrHomeLink(href)) {
+        link.replaceWith(document.createTextNode(link.textContent || ''));
+      }
+    });
+  }
+
+  function run() {
+    unwrapPublicationAuthorLinks(document);
+    const main = document.querySelector('main');
+    if (!main || main.__publicationAuthorLinksFixed) return;
+    main.__publicationAuthorLinksFixed = true;
+    new MutationObserver(mutations => {
+      for (const mutation of mutations) {
+        mutation.addedNodes.forEach(node => {
+          if (node.nodeType === 1) unwrapPublicationAuthorLinks(node);
+        });
+      }
+    }).observe(main, { childList: true, subtree: true });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', run);
+  } else {
+    run();
+  }
+})();
+</script>

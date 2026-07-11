@@ -1,0 +1,143 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Daniel Adu Worae
+  given: Daniel Adu
+  family: Worae
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals: []
+status:
+  icon: 🔐
+role: Ph.D. Candidate in Computer Science and Engineering
+bio: I am a Ph.D. Candidate in Computer Science and Engineering at the University of Notre Dame. My research focuses on secure, interpretable, and privacy-preserving IoT systems, with emphasis on network traffic analysis, anomaly detection, retrieval-augmented generation, and LLM-augmented operational intelligence.
+affiliations:
+- name: University of Notre Dame
+  url: https://cse.nd.edu/
+links:
+- icon: at-symbol
+  url: mailto:dworae@nd.edu
+  label: Email
+- icon: brands/github
+  url: https://github.com/WadElla
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/citations?user=u9WAddAAAAAJ&hl=en
+- icon: academicons/orcid
+  url: https://orcid.org/0000-0002-6774-2725
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/daniel-adu-worae-39675a155/
+interests:
+- IoT security and privacy
+- Network traffic analysis
+- Anomaly detection
+- Retrieval-augmented generation
+- LLM agents for security operations
+- Blockchain systems
+education:
+- degree: Ph.D. in Computer Science and Engineering
+  institution: University of Notre Dame
+  start: '2023-07-01'
+  end: ''
+  summary: 'Advisor: Prof. Nitesh Chawla. Committee: Dr. Aaron Striegel, Dr. Meng Jiang, Dr. Fanxin Kong, and Dr. Susmit Shannigrahi.'
+- degree: M.S. in Computer Science and Engineering
+  institution: University of Notre Dame
+  start: '2023-08-01'
+  end: '2026-01-01'
+  summary: 'Advisor: Prof. Spyridon Mastorakis.'
+- degree: M.E. in Computer Science and Technology
+  institution: University of Electronic Science and Technology of China
+  start: '2021-09-01'
+  end: '2024-07-01'
+  summary: 'Advisor: Prof. Qi Xia. UESTC Academic Achievement Award, Master’s Category, First Prize.'
+- degree: B.S. in Computer Engineering
+  institution: Kwame Nkrumah University of Science and Technology
+  start: '2016-10-01'
+  end: '2020-10-01'
+experience:
+- role: Graduate Research Assistant
+  org: University of Notre Dame, Department of Computer Science and Engineering
+  start: '2023-07-01'
+  summary: Researching secure, interpretable, and resilient IoT ecosystems, including privacy-preserving communication, network traffic analysis, threat detection, and LLM-augmented operational intelligence.
+- role: Graduate Teaching Assistant
+  org: University of Notre Dame, Department of Computer Science and Engineering
+  start: '2023-08-01'
+  end: '2024-12-01'
+  summary: Supported instruction for Special Topics in Advanced and Secure Networks, Computer Networks, and Systems Programming.
+- role: Graduate Teaching Assistant
+  org: University of Electronic Science and Technology of China
+  start: '2022-03-01'
+  end: '2023-01-01'
+  summary: Supported Foundations of Cryptography and Multimedia Technology and Applications.
+- role: Teaching and Research Assistant
+  org: Kwame Nkrumah University of Science and Technology, Department of Computer Engineering
+  start: '2020-09-01'
+  end: '2021-08-01'
+  summary: Led tutorial and laboratory sessions and supported research on distributed denial-of-service attacks on networks.
+- role: Course Instructor
+  org: Huawei Certified ICT Associate
+  start: '2020-09-01'
+  end: '2021-09-01'
+  summary: Delivered instructor-led training for HCIA routing, switching, and networking modules.
+- role: Intern
+  org: Ghana Police Service
+  start: '2019-06-01'
+  end: '2019-08-01'
+  summary: Supported software development, hardware integration, and network troubleshooting tasks.
+skills:
+- name: Programming
+  items:
+  - label: Python
+    level: 5
+  - label: C/C++
+    level: 4
+  - label: JavaScript
+    level: 3
+  - label: MATLAB
+    level: 3
+  - label: PHP
+    level: 3
+- name: Machine Learning and Data
+  items:
+  - label: PyTorch
+    level: 4
+  - label: Keras
+    level: 4
+  - label: scikit-learn
+    level: 4
+  - label: Pandas
+    level: 4
+- name: Networking and Security
+  items:
+  - label: Wireshark
+    level: 5
+  - label: Scapy
+    level: 4
+  - label: Zeek
+    level: 4
+  - label: eNSP
+    level: 4
+languages:
+- name: English
+  level: 5
+  label: Fluent
+- name: Twi
+  level: 5
+  label: Native
+awards:
+- title: Summer Research Fellowship
+  awarder: University of Notre Dame
+  date: '2023-06-01'
+  summary: Awarded $3,000 in summer research support.
+  icon: hero/trophy
+- title: Full University Scholarship
+  awarder: University of Electronic Science and Technology of China
+  date: '2021-09-01'
+  summary: Full university scholarship for graduate studies, 2021–2023.
+  icon: hero/academic-cap
+- title: Academic Achievement Award, Master’s Category, First Prize
+  awarder: University of Electronic Science and Technology of China
+  date: '2021-12-01'
+  summary: Recognized with the UESTC Academic Achievement Award.
+  icon: hero/trophy
