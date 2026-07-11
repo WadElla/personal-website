@@ -145,5 +145,5 @@ hugoblox:
       opacity: 1.0
     export_logs: true
   pro:
-    hide_attribution: true
+    hide_attribution: false
     affiliate_code: ''

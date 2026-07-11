@@ -2,7 +2,7 @@
 title: IoT Traffic Camouflage
 date: '2025-01-25'
 links:
-- type: code
+- type: site
   url: https://github.com/WadElla/IoT-Traffic-Camouflage
 tags:
 - IoT Privacy

@@ -2,7 +2,7 @@
 title: IoT Shepherd
 date: '2024-12-30'
 links:
-- type: code
+- type: site
   url: https://github.com/WadElla/iot-shepherd
 tags:
 - IoT Security

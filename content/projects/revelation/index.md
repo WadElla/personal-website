@@ -2,7 +2,7 @@
 title: Revelation
 date: '2025-10-13'
 links:
-- type: code
+- type: site
   url: https://github.com/WadElla/Revelation
 tags:
 - PCAP Analysis
