@@ -40,7 +40,7 @@ education:
   institution: University of Notre Dame
   start: '2023-07-01'
   end: ''
-  summary: 'Advisor: Prof. Nitesh Chawla. Committee: Dr. Aaron Striegel, Dr. Meng Jiang, Dr. Fanxin Kong, and Dr. Susmit Shannigrahi.'
+  summary: 'Advisor: Prof. Nitesh Chawla. Committee: Dr. Spyridon Mastorakis, Dr. Aaron Striegel, Dr. Meng Jiang, Dr. Fanxin Kong, and Dr. Susmit Shannigrahi.'
 - degree: M.S. in Computer Science and Engineering
   institution: University of Notre Dame
   start: '2023-08-01'
@@ -91,33 +91,33 @@ skills:
   - label: Python
     level: 5
   - label: C/C++
-    level: 4
+    level: 5
   - label: JavaScript
-    level: 3
+    level: 4
   - label: MATLAB
-    level: 3
+    level: 5
   - label: PHP
-    level: 3
+    level: 4
 - name: Machine Learning and Data
   items:
   - label: PyTorch
-    level: 4
+    level: 5
   - label: Keras
-    level: 4
+    level: 5
   - label: scikit-learn
-    level: 4
+    level: 5
   - label: Pandas
-    level: 4
+    level: 5
 - name: Networking and Security
   items:
   - label: Wireshark
     level: 5
   - label: Scapy
-    level: 4
+    level: 5
   - label: Zeek
-    level: 4
+    level: 5
   - label: eNSP
-    level: 4
+    level: 5
 languages:
 - name: English
   level: 5
